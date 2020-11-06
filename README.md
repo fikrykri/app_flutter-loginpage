@@ -1,7 +1,5 @@
 # aplikasi_loginpage
 
-A new Flutter project.
-
 ## View App
 ![image](https://user-images.githubusercontent.com/67889757/98373899-7d91cd80-2072-11eb-92ce-cb7647e98c40.png)
 
